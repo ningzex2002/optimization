@@ -2,7 +2,7 @@
 % Define the input: x1 is the initial point, tol is the tolerance
 x0 = [-2;2];
 tol = 10^-4;
-% Apply the function
+% Apply to the Rosenbrock's function
 x_final = grad_desc('grad',x0,tol);
 x_final
 
