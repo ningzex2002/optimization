@@ -1,0 +1,5 @@
+%Group Member: Ningze Xia, Yueer Liu
+%The file "grad.m" is the file containing the gradient function
+%The file "secant_method.m" implements a line search algorithm using the secant method (ex7.11)
+%The file "grad_desc.m" implements the steepest descent algorithm using the secant method for line search (ex8.25)
+%The file "running.m" runs the code we have and applys them to Rosenbrock's function (ex8.26)
