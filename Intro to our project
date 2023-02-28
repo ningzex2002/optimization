@@ -3,3 +3,10 @@
 %The file "secant_method.m" implements a line search algorithm using the secant method (ex7.11)
 %The file "grad_desc.m" implements the steepest descent algorithm using the secant method for line search (ex8.25)
 %The file "running.m" runs the code we have and applys them to Rosenbrock's function (ex8.26)
+
+%Our final output is :
+    %The required number of iterations is 9386
+    %x_final =
+    %          0.99992032744478
+    %         0.999840499206061
+    %the value of f is 6.3503e-09 which is very close to 0, so we're done evaluation.
